@@ -1,0 +1,21 @@
+---
+Name: doxygen
+Cartridge-Short-Name: DOXYGEN
+Architecture: x64_64
+Display-Name: Doxygen
+Description: Utility
+Version: '1.6.1-6'
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: phase2
+License: BSD
+Categories:
+- embedded
+Provides:
+- doxygen-1.6.1-6
+- doxygen
+- doxygen version() = 1.6.1-6
+- doxygen version() = 1.6.1
+- doxygen version() = 1.6
+Scaling:
+  Min: 1
+  Max: 1
